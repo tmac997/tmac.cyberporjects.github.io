@@ -4,11 +4,16 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
+(https://www.linkedin.com/in/toree-mcintyre-739095211/)
 
-There should be whitespace between paragraphs.
+I will update website regularly with new skills and project demonstrations.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Licenses & certifications
+CompTIA Network+ ce 
+CompTIA A+ ce 
+CompTIA Security+ 
+Credential ID:COMP001022340421
+
 
 # Header 1
 
