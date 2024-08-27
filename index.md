@@ -9,7 +9,7 @@ layout: default
 I will update website regularly with new skills and project demonstrations.
 
 
-Licenses & certifications
+## Licenses & certifications
 CompTIA Network+ ce/ 
 CompTIA A+ ce/ 
 CompTIA Security+/
