@@ -17,6 +17,7 @@ Credential ID:COMP001022340421
 ## Projects 
 
 > NMAP and Wireshark vulnerabilities and network scan analysis.
+> 
 > This project aims to identify and analyze network vulnerabilities and anomalies using Nmap and Wireshark in a virtual lab environment. The project also aims to uncover potential security risks within the network by conducting a comprehensive scan and traffic analysis. The findings will inform recommendations to enhance the network's security posture, protecting it against emerging threats. This project demonstrates the practical application of network mapping and monitoring tools in maintaining cybersecurity. Recommendations to enhance the network's security posture, ensuring it is protected against emerging threats. This project demonstrates the practical application of network mapping and monitoring tools in maintaining cybersecurity.
 
 ### Header 3
