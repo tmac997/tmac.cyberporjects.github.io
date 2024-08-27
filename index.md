@@ -9,9 +9,9 @@ layout: default
 I will update website regularly with new skills and project demonstrations.
 
 Licenses & certifications
-CompTIA Network+ ce 
-CompTIA A+ ce 
-CompTIA Security+ 
+CompTIA Network+ ce/ 
+CompTIA A+ ce/ 
+CompTIA Security+/
 Credential ID:COMP001022340421
 
 
